@@ -1,0 +1,8 @@
+dotenv==0.9.9
+fastapi==0.120.3
+fastapi-limiter==0.1.6
+psycopg2-binary==2.9.11
+redis==7.0.1
+SQLAlchemy==2.0.44
+uvicorn==0.38.0
+validators==0.35.0
